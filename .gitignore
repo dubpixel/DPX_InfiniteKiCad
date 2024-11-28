@@ -13,6 +13,7 @@
 #misc_not_good_stuff
 *.gsheet
 **/*.app
+**/*.zip
 
 # KiCad generated files
 *.erc
@@ -25,3 +26,4 @@
 .DS_Store
 # other stuff
 
+software/bin/DoubleKiCad.zip
