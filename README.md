@@ -127,10 +127,42 @@ Software!
 <!-- GETTING STARTED -->
 ## Getting Started
 You can create this application locally using the following steps:
+turns out this is also a great tutorial for wrapping a shell script in an osx app
 
-1.  Create a folder on your desktop named ' InfiniteKiCad.app'
+
+1.  Create a folder on your desktop named ' InfiniteKiCad.app'  - or _whatever_ you're after.
 2.  Wow holy crap it turned into an app!
-3.  Make 
+4.  Open 'Terminal'
+5.  Smash this command in to make the rest of the app 'legit'
+     ```
+      mkdir ~/Desktop/InfiniteKiCad.app/Contents/MacOS/
+    
+    ```
+6.   Write your script  - make sure its the same name as the app  
+      ```
+        vim ~/Desktop/InfiniteKiCad.app/Contents/MacOS/InfiniteKiCad
+      ```
+      paste this in your file  - (its the same thing in the script
+      ```
+        #!/bin/sh
+        open -n /Applications/KiCad/KiCad.app
+      ```
+
+      ----
+      you can also write it somewhere else and 'cp' it into the directory
+      ```
+        cp ~/MyShellScript.sh ~/Desktop/InfiniteKiCad.app/Contents/MacOS/InfiniteKiCad
+      ```
+      ----
+     but no matter what you need to make sure the script is executable
+     ```
+       chmod +x ~/Desktop/InfiniteKiCad.app/Contents/MacOS/InfiniteKiCad
+     ```
+     
+      
+
+
+       
 
 
 ### Prerequisites
