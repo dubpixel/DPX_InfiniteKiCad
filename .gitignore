@@ -1,0 +1,27 @@
+# Generic backup files
+*~
+\#*
+.\#*
+# Any dir that ends in _old 
+**/*_old/**
+**/zz_reference/**
+# KiCad backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+
+#misc_not_good_stuff
+*.gsheet
+**/*.app
+
+# KiCad generated files
+*.erc
+*.net
+*-cache.lib
+*-rescue.lib
+*.lck
+
+**/.DS_Store
+.DS_Store
+# other stuff
+
