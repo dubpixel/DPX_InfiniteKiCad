@@ -258,16 +258,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/DPX_replace_projectName.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/DPX_replace_projectName/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/DPX_replace_projectName.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/DPX_replace_projectName/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/DPX_replace_projectName.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/DPX_replace_projectName/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/DPX_replace_projectName.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/DPX_replace_projectName/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/DPX_replace_projectName.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/DPX_replace_projectName/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/DPX_InfiniteKiCad.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/DPX_InfiniteKiCad/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/DPX_InfiniteKiCad.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/DPX_InfiniteKiCad/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/DPX_InfiniteKiCad.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/DPX_InfiniteKiCad/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/DPX_InfiniteKiCad.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/DPX_InfiniteKiCad/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/DPX_InfiniteKiCad.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/DPX_InfiniteKiCad/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-front]: images/front.png
