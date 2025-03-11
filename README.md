@@ -1,17 +1,16 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
-*** /// d   u   b   p   i   x   e   l 
-*** this has additionally been changed by dubpixel for the dpx_ series of projects
-*** search dpx_InfiniteKiCad .. replace COMMAND OPTION F
-*** modified for software only
-*** also has added kicad badge
--->
+
+<!--  *** Thanks for checking out the Best-README-Template. If you have a suggestion that would make this better, please fork the repo and create a pull request or simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again! Now go create something AMAZING! :D -->
+
+
+
+<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.0 -->
+<!--this has additionally been modifed by @dubpixel for hardware use -->
+<!--search dpx_faded.. search & replace is COMMAND OPTION F -->
+
+<!--todo add small product image thats not in a details tag -->
+<!--igure out how to get the details tag to properly render in jekyll for gihub pages.-->
 
 
 
@@ -41,24 +40,19 @@
   </a>
 
 <h1 align="center">dpx_InfiniteKiCad </h1>
-<h3 align="center"><i>does what kicad probably should do</i></h3>
+<h3 align="center"><i>opens more copies of kicad</i></h3>
 
-  <p align="left">
-    ...opens another copy of kicad. 
+  <p align="center">
+    ...opens another copy of kicad. most people feel this is expected behavior
     <br />
-    <div align="center"> 
-    
-   .
-    ·
+     » 
     <a href="https://github.com/dubpixel/dpx_InfiniteKiCad/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
+     » 
     <a href="https://github.com/dubpixel/dpx_InfiniteKiCad/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     </div>
     </p>
 </div>
-
-
-
+<br/>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -84,25 +78,21 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
-
+<br/>
 <!-- ABOUT THE PROJECT -->
+
 <details>
 <summary><h3>About The Project</h3></summary>
 'you would think that this would be the default behavior' -MK 
 i made an app to open kicad, again. because sometimes you hellof want to copy things between designs, or, god forbid look at them. on a mac of course. It was originally called double kicad, but people were like well you can open more than two copies so here we are; InfiniteKiCad
-
-</details>
 </br>
-www.dubpixel.tv  - i@dubpixel.tv
+author(s): // www.dubpixel.tv  - i@dubpixel.tv 
 </br>
 
 Software!
-![FRONT][product-front]
+![GROINTUS!][product-front]
 
-
-
+</details>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -158,12 +148,6 @@ turns out this is also a great tutorial for wrapping a shell script in an osx ap
      ```
        chmod +x ~/Desktop/InfiniteKiCad.app/Contents/MacOS/InfiniteKiCad
      ```
-     
-      
-
-
-       
-
 
 ### Prerequisites
 
@@ -187,21 +171,33 @@ you also can just download the binary under releases.
 
  #be aware that the additional copy of kicad will open with the last saved settings. settings are saved when you exit kicad project launcher.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- REFLECTION -->
 
+## Reflection
+
+* what did we learn? 
+  * to embed a shell script into an osx app
+* what do we like/hate?
+  * that kicad doesnt just do this on mac
+* what would/could we do differently?
+  * use automator? write a taskbar app?
+<!-- 
+* what did we learn? 
+* what do we like/hate?
+* what would/could we do differently? 
+-->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Add Product Image?
 
 See the [open issues](https://github.com/dubpixel/dpx_InfiniteKiCad/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -240,9 +236,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-#Joshua Fleitell - i@dubpixel.tv
+  ### Joshua Fleitell - i@dubpixel.tv
 
-Project Link: [https://github.com/dubpixel/dpx_InfiniteKiCad](https://github.com/dubpixel/dpx_InfiniteKiCad)
+  Project Link: [https://github.com/dubpixel/dpx_InfiniteKiCad](https://github.com/dubpixel/dpx_InfiniteKiCad)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -250,10 +246,9 @@ Project Link: [https://github.com/dubpixel/dpx_InfiniteKiCad](https://github.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-* []()
-* []()
-* []()
+<!--
+  * [ ]() - the best !
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -261,21 +256,22 @@ Project Link: [https://github.com/dubpixel/dpx_InfiniteKiCad](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_InfiniteKiCad.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/dpx_InfiniteKiCad/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_InfiniteKiCad.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/dpx_InfiniteKiCad/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_InfiniteKiCad.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/dpx_InfiniteKiCad/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_InfiniteKiCad.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/dpx_InfiniteKiCad/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_InfiniteKiCad.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/dpx_InfiniteKiCad/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/dpx_replace_projectName/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/dpx_replace_projectName/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/dpx_replace_projectName/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/dpx_replace_projectName/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/jfleitell
 [product-front]: images/front.png
 [product-rear]: images/rear.png
+[product-front-rendering]: images/front_render.png
+[product-rear-rendering]: images/rear_render.png
 [product-pcbFront]: images/pcb_front.png
 [product-pcbRear]: images/pcb_rear.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
@@ -294,5 +290,9 @@ Project Link: [https://github.com/dubpixel/dpx_InfiniteKiCad](https://github.com
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[KiCad.org]: https://img.shields.io/badge/KiCad-v8.0.3-blue
+[KiCad.org]: https://img.shields.io/badge/KiCad-v8.0.6-blue
 [KiCad-url]: https://kicad.org 
+[Fusion-360]: https://img.shields.io/badge/Fusion360-v4.2.0-green
+[Autodesk-url]: https://autodesk.com 
+[FastLed.io]: https://img.shields.io/badge/FastLED-v3.9.9-red
+[FastLed-url]: https://fastled.io 
